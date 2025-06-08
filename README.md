@@ -1,2 +1,4 @@
 # Sistema-de-Gerenciamento-De-Estacionamento-Universitario
 Um sistema básico de um gerenciamento de estacionamento.
+
+Nós fizemos todo o sistema básico de um gerenciamento de estacionamento, uma aplicação desktop desenvolvida em Python para gerenciar operações de estacionamento em uma instituição. O sistema permite o cadastro de usuários (alunos, professores, funcionários e visitantes), veículos, vagas de estacionamento, reservas e registro de ocupações. A interface gráfica foi implementada com a biblioteca Tkinter, e os dados são armazenados em um banco de dados MySQL. O objetivo é automatizar o controle de estacionamento, com funcionalidades como cadastro de entidades, reserva de vagas, registro de entradas e saídas de veículos e geração de relatórios detalhados. Fizemos também os modelos lógico, físico e conceitual, que nos deu uma linha para seguirmos e implementarmos no MySQL
